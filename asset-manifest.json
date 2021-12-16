@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mThunk-vs-Saga/static/css/main.057e6adb.css",
+    "main.js": "/mThunk-vs-Saga/static/js/main.4d8f7ef8.js",
+    "static/js/787.6659dff9.chunk.js": "/mThunk-vs-Saga/static/js/787.6659dff9.chunk.js",
+    "index.html": "/mThunk-vs-Saga/index.html",
+    "main.057e6adb.css.map": "/mThunk-vs-Saga/static/css/main.057e6adb.css.map",
+    "main.4d8f7ef8.js.map": "/mThunk-vs-Saga/static/js/main.4d8f7ef8.js.map",
+    "787.6659dff9.chunk.js.map": "/mThunk-vs-Saga/static/js/787.6659dff9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057e6adb.css",
+    "static/js/main.4d8f7ef8.js"
+  ]
+}
