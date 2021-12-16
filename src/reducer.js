@@ -13,4 +13,3 @@ const myFirstReducer = (state = { users: [] }, action) => {
 
 export default myFirstReducer;
 
-//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

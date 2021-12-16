@@ -1,6 +1,7 @@
 import './App.css';
 import { connect } from 'react-redux';
 import { getUsersFetch } from './actions';
+//for Thunk demonstration
 //import { getUsersRequest } from './thunk';
 
 function App(props) {

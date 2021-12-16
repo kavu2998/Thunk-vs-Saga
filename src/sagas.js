@@ -1,3 +1,4 @@
+//takeLatest or takeEvery
 import { call, pull, put, takeEvery } from 'redux-saga/effects'
 import { GET_USERS_FETCH, getUsersSuccess } from './actions'
 
